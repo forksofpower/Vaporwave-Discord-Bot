@@ -1,6 +1,6 @@
 # Vaporwave-Discord-Bot
 
-#### How to use
+### How to use
 
 1. Get this repo
     ```
@@ -22,3 +22,7 @@
     ```
     npm start 
     ```
+    
+### Credits
+- Vaporwave Text Generator: https://lingojam.com/VaporwaveTextGenerator
+- Discord Bot Boilerplate: https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3
